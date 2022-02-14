@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JhonMoofarrif-SB
 - 👀 I’m interested in Patterns of Development
 - 🌱 I’m currently learning React and Next.JS
-- 💞️ I’m looking to collaborate on Jelpit-Conjuntos...
-- 📫 How to reach me linkedin.com/in/moofarry
+- 💞️ I’m looking to collaborate on Jelpit-Conjuntos
+- 📫 How to reach me <a>linkedin.com/in/moofarry</a>
