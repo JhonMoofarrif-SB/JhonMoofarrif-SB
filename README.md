@@ -8,8 +8,8 @@
 
 <!-- letters and views -->
 <div>
-  <img src="https://gpvc.arturio.dev/moofarry" alt="Profile views" align='right'/>
-  <a href="https://github.com/moofarry/moofarry/"> </a>
+  <img src="https://gpvc.arturio.dev/JhonMoofarrif-SB" alt="Profile views" align='right'/>
+  <a href="https://github.com/moofarry/JhonMoofarrif-SB/"> </a>
 
   <p align="center">
    <a href="https://git.io/typing-svg">
@@ -31,11 +31,12 @@
 ```
 moofarry@github
 -------------------------
-💻 I am an Electronic Engineer with a MSc degree in computer science.
-👨🏽‍💻 Currently developing in the frontend
-📚 I am an Electronic Engineer with a MSc degree in computer science.
-📝 I have a strong interest in Frontend  architecture.
+💻 I am an Frontend developer <3
+🏞 I shared a photo that gives me peace of mind
+👨🏽‍💻 Currently a front development leader in Seguros Bolivar
 🔭 Working on Frontend developer with React and Angular
+📚 I am an Electronic Engineer with a MSc degree in computer science
+📝 I have a strong interest in Frontend Architecture
 🌟 Main languages: Javascript, Python
 🚩 Interested in mobile development.
 🎵 Love Indie, lofi, pop-rock and soft music
