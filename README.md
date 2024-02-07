@@ -8,8 +8,7 @@
 
 <!-- letters and views -->
 <div>
-  <img src="https://gpvc.arturio.dev/JhonMoofarrif-SB" alt="Profile views" align='right'/>
-  <a href="https://github.com/moofarry/JhonMoofarrif-SB/"> </a>
+
 
   <p align="center">
    <a href="https://git.io/typing-svg">
