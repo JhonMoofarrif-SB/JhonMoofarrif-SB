@@ -27,19 +27,7 @@
 <br/>
 <br/>
 
-```
-moofarry@github
--------------------------
-💻 I am an Frontend developer <3
-🏞 I shared a photo that gives me peace of mind
-👨🏽‍💻 Currently a front development leader in Seguros Bolivar
-🔭 Working on Frontend developer with React and Angular
-📚 I am an Electronic Engineer with a MSc degree in computer science
-📝 I have a strong interest in Frontend Architecture
-🌟 Main languages: Javascript, Python
-🚩 Interested in mobile development.
-🎵 Love Indie, lofi, pop-rock and soft music
-```
+
 
 </div>
 <br/>
